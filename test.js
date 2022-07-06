@@ -1,0 +1,2 @@
+function newHy()
+alert("hi")
